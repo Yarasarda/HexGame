@@ -16,7 +16,7 @@ The Hex gaming project aims to create an interactive, two-player board game usin
 -JavaFX: The framework for creating the graphical user interface.
 -IDE: An Integrated Development Environment for writing, debugging, and testing code (for example, IntelliJ IDEA, Eclipse).
 
-![](https://i.hizliresim.com/9prq0x1.jpg)
+https://i.hizliresim.com/9prq0x1.jpg
 
 > UML Diagram
 
